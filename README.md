@@ -8,9 +8,9 @@ A Blockchain based online NFT Card game which can be played by two players.
 # Set-up
 
 ## 1. Clone this repository
-'''
+```
 git clone https://github.com/souramitadas/CRYPTYX-nftcardgame.git
-'''
+```
 
 
 ## 2. Instructions on setting up the Web3 part of the project
