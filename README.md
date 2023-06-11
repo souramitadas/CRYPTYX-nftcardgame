@@ -46,7 +46,6 @@ git clone https://github.com/souramitadas/CRYPTYX-nftcardgame.git
   ```
   
   # Note
-## Find the deployed version here : https://nft-blockchain-card-game.netlify.app/
 `You need to only set up point no 3 in order to play in the deployed version`
 `IF WALLET IS NOT SET-UP PROPERLY AND CONNECTED, YOU WILL SEE ONLY BLANK WHITE PAGE IN THE DEPLOYED VERSION.`
 
